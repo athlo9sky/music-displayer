@@ -12,9 +12,12 @@ https://t.me/athlo9sky
 ```
 
 Where it says "Which API/SDKs are you planning to use?"
+
 Check all the boxes.
 
-Then go to the settings of our created application and copy the data to our file. Specifically:
+Then go to the settings of our created application and copy the data to our file.
+
+Specifically:
 Client ID
 Client secret
 Redirect URIs
@@ -27,7 +30,7 @@ Fill in all the fields.
 
 Go to the tab "API development tools"
 
-Copy 2 fields into our file
+Copy 2 fields into our file:
 App api_id
 App api_hash
 
