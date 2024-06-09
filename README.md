@@ -5,6 +5,7 @@ https://developer.spotify.com/
 Create your application
 
 In the Redirect URIs column, use a link to your Telegram profile.
+
 For example
 ```
 https://t.me/athlo9sky
